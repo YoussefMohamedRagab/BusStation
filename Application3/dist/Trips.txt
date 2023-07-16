@@ -1,0 +1,4 @@
+1,Cairo,Alexandria,1/4/2019,02:00,5,limousine,150,Nonstop,OneWay,
+2,Alexandria,Cairo,1/4/2019,04:00,19,MiniBus,200,Onestop,Round,
+5,Alexandria,Luxor,10/6/2019,02:00,0,Bus,200,Manystops,Oneway,
+6,PortSaid,Alexandria,20/10/2019,10:00,60,Bus,500,Onestop,One-Way,
